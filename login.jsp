@@ -13,7 +13,6 @@
         #registerLink {
             color: white;
         }
-
         label {
             color: black;
         }
