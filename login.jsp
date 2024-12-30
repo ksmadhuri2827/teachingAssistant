@@ -16,7 +16,6 @@
         label {
             color: black;
         }
-
         .form-group>input {
             width: 60%;
         }
